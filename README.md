@@ -11,6 +11,7 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 - <b>PowerShell</b> 
 - <b>Oracle VM</b>
+- <b>Server 2019</b>
 
 <h2>Environments Used </h2>
 
